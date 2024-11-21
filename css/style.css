@@ -1734,6 +1734,10 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Satisfy", cursive;
   color: #fff;
 }
+
+option{
+  background-color: #252525;
+}
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
