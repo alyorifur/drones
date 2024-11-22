@@ -52,13 +52,13 @@ body {
 }
 
 a {
-  color: #ea272d;
+  color: #75CACA;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #ea272d;
+  color: #75CACA;
   outline: none;
   text-decoration: none;
 }
@@ -77,17 +77,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #ea272d;
+  background: #75CACA;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #ea272d;
+  background: #75CACA;
 }
 
 ::selection {
   color: #fff;
-  background: #ea272d;
+  background: #75CACA;
 }
 
 .fh5co-nav {
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000 !important;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #ea272d;
+  color: #75CACA;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #ea272d;
+  background: #75CACA;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
