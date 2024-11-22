@@ -1658,21 +1658,21 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-danger {
-  background: #d9534f;
+  background: #46BFB0;
   color: #fff;
-  border: 2px solid #d9534f;
+  border: 2px solid #46BFB0;
 }
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active {
-  background: #d43f3a !important;
-  border-color: #d43f3a !important;
+  background: #46BFB0 !important;
+  border-color: #46BFB0 !important;
 }
 .btn-danger.btn-outline {
   background: transparent;
-  color: #d9534f;
-  border: 2px solid #d9534f;
+  color: #46BFB0;
+  border: 2px solid #46BFB0;
 }
 .btn-danger.btn-outline:hover, .btn-danger.btn-outline:focus, .btn-danger.btn-outline:active {
-  background: #d9534f;
+  background: #46BFB0;
   color: #fff;
 }
 
